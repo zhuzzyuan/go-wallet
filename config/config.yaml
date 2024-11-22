@@ -1,0 +1,11 @@
+postgres:
+  url: "user=postgres password=admin123 host=172.17.0.2 port=5432 dbname=wallet connect_timeout=20 sslmode=disable"
+
+api:
+  host: 0.0.0.0
+  port: 8000
+
+jwt:
+  access_token_expiry: 7200
+  refresh_token_expiry: 7200
+  jwt_secret: "test_key"

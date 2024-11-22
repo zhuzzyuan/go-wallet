@@ -1,0 +1,66 @@
+2024-11-21 13:44:43.294 [info] [1;32mAPI listening at asda[0m
+2024-11-21 13:45:10.628 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 13:49:24.800 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 14:23:00.046 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 14:50:28.871 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 14:50:30.912 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 14:56:46.155 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 14:56:48.183 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 14:57:05.901 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 14:57:07.932 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 15:00:54.039 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 15:00:56.066 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 15:01:29.992 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 15:01:32.025 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 15:03:24.877 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 15:03:26.915 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 15:06:47.375 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 15:06:49.399 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 15:27:14.916 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 15:27:16.966 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 15:36:40.055 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 15:36:42.087 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 15:45:19.516 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 15:45:21.551 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:12:28.580 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:12:30.608 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:13:59.496 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:14:01.524 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:15:02.445 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:15:04.481 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:15:54.196 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:15:56.225 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:23:28.121 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:23:30.152 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:25:28.967 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:25:31.006 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:34:42.246 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:34:44.281 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:35:17.173 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:35:19.210 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:37:11.892 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:37:13.936 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:49:17.952 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:49:19.984 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 16:54:48.634 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 16:54:50.655 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 17:00:16.763 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 17:00:18.802 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 18:45:57.305 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 18:45:59.340 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 18:46:37.816 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 18:46:39.844 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 18:52:56.713 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 18:52:58.749 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 19:32:12.166 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 19:32:14.202 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 19:38:04.320 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 19:38:06.338 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 19:39:20.357 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 19:39:22.408 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 19:40:02.618 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 19:40:04.655 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-21 19:41:01.359 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-21 19:41:03.406 [info] [1;32mAPI listening at 0.0.0.0:8000[0m
+2024-11-22 09:57:33.071 [info] Connected to db: user=postgres password=admin123 host=localhost port=5432 dbname=wallet connect_timeout=20 sslmode=disable
+2024-11-22 09:57:35.120 [info] [1;32mAPI listening at 0.0.0.0:8000[0m

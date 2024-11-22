@@ -7,6 +7,7 @@ CREATE TABLE IF NOT EXISTS user_balance
     balance              DECIMAL(65, 18)    NOT NULL  --user balance
 );
 CREATE UNIQUE INDEX IF NOT EXISTS user_balance_unique_idx_user_balance ON user_balance (email,chain,coin_type);
+CREATE INDEX IF NOT EXISTS user_balance_idx_email ON user_balance (email);
 
 CREATE TABLE IF NOT EXISTS transaction_history
 (
@@ -18,6 +19,8 @@ CREATE TABLE IF NOT EXISTS transaction_history
     coin_type            VARCHAR(16)        NOT NULL, -- coin type:eth,usdt,uni
     timestamp            BIGINT             NOT NULL
 );
+CREATE INDEX IF NOT EXISTS transaction_history_idx_from ON transaction_history ("from");
+CREATE INDEX IF NOT EXISTS transaction_history_idx_to ON transaction_history ("to");
 
 CREATE TABLE IF NOT EXISTS user_info
 (
@@ -27,6 +30,7 @@ CREATE TABLE IF NOT EXISTS user_info
     address              VARCHAR(64)        NOT NULL
 );
 CREATE UNIQUE INDEX IF NOT EXISTS user_info_unique_idx_user_info ON user_info (email,chain,address);
+CREATE INDEX IF NOT EXISTS user_info_idx_user_info ON user_info (email,chain);
 
 INSERT INTO user_info (id, email, chain, address) VALUES (1, 'a@gmail.com', 'ethereum', '0x70997970C51812dc3A010C7d01b50e0d17dc79C8');
 INSERT INTO user_info (id, email, chain, address) VALUES (2, 'b@gmail.com', 'ethereum', '0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC');

@@ -67,7 +67,9 @@ func Withdraw(req models.WithdrawRequest) (string, error) {
 		return err
 	})
 
-	if err != nil {
+	if err == nil {
+		log.Infof("%s withdraw %s %s on %s", req.Email, req.Value, req.CoinType, req.Chain)
+	} else {
 		log.Error(err)
 	}
 
@@ -119,7 +121,9 @@ func Transfer(from, to, chain, coinType, value string) (string, error) {
 		return err
 	})
 
-	if err != nil {
+	if err == nil {
+		log.Infof("%s transfer %s %s on %s to %s", from, value, coinType, chain, to)
+	} else {
 		log.Error(err)
 	}
 
@@ -141,7 +145,9 @@ func updateUserBalance(sqlTx *sql.Tx, email, chain, coinType string, newValue *b
 	}
 
 	_, err := sqlTx.Exec(postgres.Compose(query), args...)
-	if err != nil {
+	if err == nil {
+		log.Infof("update balance:%s, chain:%s, coinType:%s, newvalue:%s", email, chain, coinType, convert.BigFloatToString(newValue))
+	} else {
 		log.Error(err)
 		return err
 	}

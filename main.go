@@ -24,7 +24,7 @@ func init() {
 	log.Init(config.IsDebugMode())
 	db.Init()
 
-	time.Sleep(2 * time.Second)
+	time.Sleep(2 * time.Second) //
 }
 
 func main() {
